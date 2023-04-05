@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1" onxxx="">
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04651029"
+     d="M 4.3371667,5.3419187 H 45.122692 C 16.613326,59.103165 11.202877,95.241289 11.202877,95.241289 H 4.3371667 V 5.3419187" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04651029"
+     d="m 63.228958,5.3419187 c 0,0 -8.32348,5.1347403 -12.27778,15.5409503 0,0 7.07561,-5.20543 13.73495,-6.87097 0,0 15.60839,20.32686 25.80391,81.22939 h 6.86771 V 5.3419187 h -34.12879" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04651029"
+     d="M 24.939784,95.241289 H 49.909997 C 38.881941,71.796288 36.590984,45.643087 36.590984,45.643087 23.275599,62.084475 24.939784,95.241289 24.939784,95.241289" />
+  <image x="0" y="0" width="32" height="32"
+     href="/tmp/idontexist"
+     onerror="alert(document.domain);" />
+</svg>
